@@ -4,13 +4,13 @@ plugins {
 }
 
 android {
-    namespace = "com.example.networkwitcher"
+    namespace = "com.example.networkSwitcher"
     compileSdk {
         version = release(36)
     }
 
     defaultConfig {
-        applicationId = "com.example.networkwitcher"
+        applicationId = "com.example.networkSwitcher"
         minSdk = 24
         targetSdk = 36
         versionCode = 1
